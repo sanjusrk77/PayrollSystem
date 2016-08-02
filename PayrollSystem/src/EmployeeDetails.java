@@ -7,6 +7,7 @@ public class EmployeeDetails {
 	    String Emp_Status;
 	    int Emp_Salary;
 	    int Emp_ads;
+	    String Street;
         public static void main(String[] args){
 			
 			
