@@ -6,7 +6,7 @@ public class EmployeeDetails {
 	    String Emp_Name;
 	    String Emp_Status;
 	    int Emp_Salary;
-	    
+	    int Emp_ads;
         public static void main(String[] args){
 			
 			
