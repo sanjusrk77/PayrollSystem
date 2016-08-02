@@ -31,7 +31,7 @@ public class EmployeeDetails {
 	        System.out.println("Employee Number:" + Emp_Number);
 	        System.out.println("Employee Name:" + Emp_Name);
 	        System.out.println("Employe status:" + Emp_Status);
-	       
+	        System.out.println("Employee Salary:" + Emp_Salary);
 		}
 	       
 	        
